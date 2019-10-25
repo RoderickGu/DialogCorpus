@@ -1,4 +1,4 @@
-# DialogCorpus
+# Some example unprocessed DialogCorpus
 A large scale dialog corpus for pre-training
 
 
